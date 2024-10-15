@@ -1,6 +1,5 @@
 # Improved-iYOLO-v8-Fracture-detection-for-pediatric-wrist
 
-# Improved iYOLO-v8 Fracture Detection for Pediatric Wrist
 
 ## Requirements
 - **Operating System**: Linux (Ubuntu)
